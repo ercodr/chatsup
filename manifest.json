@@ -1,7 +1,7 @@
 {
     "name": "ChatsUp",
     "short_name": "ChatsUp",
-    "start_url": "/index.html?home=true",
+    "start_url": ".",
     "description": "Forum App",
     "lang": "en-US",
     "developer": {
