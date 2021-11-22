@@ -1,8 +1,8 @@
 {
     "name": "ChatsUp",
     "short_name": "ChatsUp",
-    "start_url": "/index.html?home=true",
-    "description": "Forum App",
+    "start_url": "index.html",
+    "description": "Group Messaging Platform",
     "lang": "en-US",
     "developer": {
     "name": "Alphascid Technologies",
