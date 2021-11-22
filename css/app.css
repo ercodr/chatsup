@@ -9,7 +9,8 @@ main{
     width: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
-    background: #e6f2fc;
+    /* background: #e6f2fc; */
+    background: #d3e6f7;
 }
 
 .chat-card{
