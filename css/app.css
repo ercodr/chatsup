@@ -1,0 +1,46 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+main{
+    position: fixed;
+    margin-top: 58px;
+    height: 100%;
+    width: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background: #e6f2fc;;
+}
+
+.chat-card{
+    border-radius: 0 20px 20px 20px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgb(210, 216, 221, .3), 0 6px 20px 0 rgb(210, 216, 221, .3);
+    border-right: 5px solid rgb(13, 109, 253, .5);
+}
+.chat-card-group{
+    margin-bottom: 8.5rem;
+}
+
+.login, .register{
+    position: relative;
+}
+
+.card-login{
+    position: absolute;
+    top: 25%;
+    border-radius: 20px;
+}
+.card-register{
+    position: absolute;
+    top: 20%;
+    border-radius: 20px;
+}
+
+.login input, .login button {
+    box-shadow: inset 0 2px 4px 0 rgba(112, 112, 112, 0.2), inset 0 1.5px 5px 0 rgba(112, 112, 112, 0.2);
+}
+
+.get-started div h1{
+    font-size: 100px;
+}
