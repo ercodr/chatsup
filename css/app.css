@@ -50,19 +50,19 @@ main{
     font-size: 100px;
 }
 
-footer nav form button{
+.footer .chat-navbar .form .button{
     margin-left: -64px!important;
     border-top-right-radius: 35px!important;
     border-bottom-right-radius: 35px!important;
     z-index: 1000!important;
 }
 
-footer nav form input{  
+.footer .chat-navbar .form .input{  
     padding-top: .65rem!important;
     padding-bottom: .65rem!important;
     padding-right: 4.5rem!important;
 }
 
-footer .chat-navbar{
-    background: #d3e6f7;
+.footer .chat-navbar{
+    background: #d3e6f7!important;
 }
